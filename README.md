@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi, I'm Tuana Coşgun 👋
 
-<!--
-**tuanacosgun/tuanacosgun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student at Izmir University of Economics, passionate about software development, data analytics, artificial intelligence, and web technologies.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Software Engineering student at Izmir University of Economics
+- 💻 Interested in Python, Java, AI, data analytics, and web development
+- 📊 Currently improving my skills in Python, SQL, Git, and data analysis
+- 🇩🇪 Learning German at B1 level
+
+## Technologies & Tools
+
+**Languages:** Java · Python · C++ · SQL · JavaScript · C#
+
+**Libraries:** Pandas · NumPy · Matplotlib · BeautifulSoup · Requests · JDBC · Java Swing
+
+**Tools:** Git · GitHub · IntelliJ IDEA · PyCharm · VS Code · MySQL · MSSQL
+
+## Featured Projects
+
+### 🌐 Web Scraping Projects
+Python projects using Requests and BeautifulSoup to collect and analyze data from websites.
+
+### 📚 Library Management System
+Java-based library management system featuring REST APIs, CRUD operations, search functionality, integration testing, and CI/CD with GitHub Actions.
+
+### 🎮 Dots and Boxes
+Java Swing implementation of the classic game with SQLite integration for game history.
+
+### 🎬 IMDb Top Movies
+Python GUI application using Tkinter, web scraping, and AI technologies to explore IMDb movie data.
+
+## Education
+
+**Izmir University of Economics**  
+B.Sc. Software Engineering (2023 – Present)
+
+## Certificates
+
+- Google Data Analytics Professional Certificate
+- Cisco – Introduction to Cybersecurity
+- Izmir University of Economics Open House Student Ambassador
+- FIGES App Designer Workshop
+
+## Currently Learning
+
+- Data Analytics
+- Artificial Intelligence
+- Web Scraping
+- C#
+
+## Connect with Me
+
+[LinkedIn](https://www.linkedin.com/in/tuanacosgun/) · [GitHub](https://github.com/tuanacosgun)
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuanacosgun&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tuanacosgun&layout=compact)
+
+![Profile Views](https://komarev.com/ghpvc/?username=tuanacosgun&label=Profile%20Views&color=blueviolet)
