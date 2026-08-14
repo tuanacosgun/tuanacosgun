@@ -56,8 +56,4 @@ B.Sc. Software Engineering (2023 – Present)
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuanacosgun&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tuanacosgun&layout=compact)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=tuanacosgun&label=Profile%20Views&color=blueviolet)
