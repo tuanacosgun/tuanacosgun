@@ -52,7 +52,9 @@ B.Sc. Software Engineering (2023 – Present)
 
 ## Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/tuanacosgun/) · [GitHub](https://github.com/tuanacosgun)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuanacosgun/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github&logoColor=white)](https://github.com/tuanacosgun)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white)](mailto:tuanacosgun04@hotmail.com)
 
 ## GitHub Stats
 
