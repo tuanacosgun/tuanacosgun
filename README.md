@@ -20,7 +20,7 @@ Software Engineering student at Izmir University of Economics, passionate about 
 ## Featured Projects
 
 ### 🌐 Web Scraping Projects
-Python projects using Requests and BeautifulSoup to collect and analyze data from websites.
+Python projects using Requests, BeautifulSoup and Selenium to collect and analyze data from websites.
 
 ### 📚 Library Management System
 Java-based library management system featuring REST APIs, CRUD operations, search functionality, integration testing, and CI/CD with GitHub Actions.
