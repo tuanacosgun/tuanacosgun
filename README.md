@@ -58,3 +58,4 @@ B.Sc. Software Engineering (2023 – Present)
 
 ## GitHub Stats
 
+![Profile Views](https://komarev.com/ghpvc/?username=tuanacosgun&label=Profile%20Views&color=blueviolet)
