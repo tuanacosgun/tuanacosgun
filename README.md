@@ -9,8 +9,8 @@ Software Engineering student at Izmir University of Economics, passionate about 
 - 📊 Currently improving my skills in Python, SQL, Git, and data analysis
 - 🇩🇪 Learning German at B1 level
 
-  <p align="center">
-  <img src="[https://example.com/nyan-cat.gif](https://media.tenor.com/8lR3_1m-i94AAAAi/cat.gif)" width="400">
+<p align="center">
+  <img src="https://media.tenor.com/8lR3_1m-i94AAAAi/cat.gif" width="400">
 </p>
 
 ## Technologies & Tools
