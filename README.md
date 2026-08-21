@@ -10,7 +10,7 @@ Software Engineering student at Izmir University of Economics, passionate about 
 - 🇩🇪 Learning German at B1 level
 
 <p align="center">
-  <img src="https://media.tenor.com/8lR3_1m-i94AAAAi/cat.gif" width="400">
+  <img src="https://media.tenor.com/8lR3_1m-i94AAAAi/cat.gif" width="200">
 </p>
 
 ## Technologies & Tools
