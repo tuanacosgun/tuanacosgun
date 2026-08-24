@@ -1,4 +1,4 @@
-# Hi, I'm Tuana Coşgun 👋
+# Hi, I'm Tuana Coşgun
 
 Software Engineering student at Izmir University of Economics, passionate about software development, data analytics, artificial intelligence, and web technologies.
 
