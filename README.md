@@ -23,6 +23,9 @@ Software Engineering student at Izmir University of Economics, passionate about 
 
 ## Featured Projects
 
+### 🏠 House Price Regression & RAG
+Machine learning project for house price prediction using regression, with a RAG-based AI assistant powered by the Gemini API for retrieving similar properties and generating responses based on the dataset.
+
 ### 🌐 Web Scraping Projects
 Python projects using Requests, BeautifulSoup and Selenium to collect and analyze data from websites.
 
@@ -35,8 +38,6 @@ Java Swing implementation of the classic game with SQLite integration for game h
 ### 🎬 IMDb Top Movies
 Python GUI application using Tkinter, web scraping, and AI technologies to explore IMDb movie data.
 
-### 🏠 House Price Regression & RAG
-Machine learning project for house price prediction using regression, with a RAG-based AI assistant powered by the Gemini API for retrieving similar properties and generating responses based on the dataset.
 
 ## Education
 
